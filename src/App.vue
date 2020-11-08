@@ -19,7 +19,7 @@
 </template>
 
 <script>
-//import dl
+//import dlieu
 import "./scss/style.scss";
 import Footer from "./components/Footer";
 export default {
